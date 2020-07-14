@@ -1,0 +1,473 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/pawel/OneDrive/Dokumenty/docfx/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.Utils.Tools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.Utils.Tools.html",
+          "hash": "Rlq9sYGVJxpFXLAhwzhJUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.Utils.html",
+          "hash": "jjeR7zReVQAKh5dloy0o3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoPodpisania_Komorka.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoPodpisania_Komorka.html",
+          "hash": "UYOpoYSvBuka25sK+q9IBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoPodpisania_Wiersz.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoPodpisania_Wiersz.html",
+          "hash": "wTE4zaXf3mBWRBJaUnryHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoWydania_Komorka.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoWydania_Komorka.html",
+          "hash": "fepwoxx7wTFJ3wP22aoWBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoWydania_Wiersz.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.DokumentyDoWydania_Wiersz.html",
+          "hash": "HFLQ7pIdeFwjASDih3Rgcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.PageForm_Komorka.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.PageForm_Komorka.html",
+          "hash": "Xc2txJTVR3aVc/Yi3uo9HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.PageForm_Wiersz.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.PageForm_Wiersz.html",
+          "hash": "bbd1qJsMDvN943Eu1v9sTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.Gridy.DokumentyDoWydania.html",
+          "hash": "Mr/u9lNcjxIudRoblfIbEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.PageForm.WymianaDokumentowPF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.PageForm.WymianaDokumentowPF.html",
+          "hash": "wbBgZ6Sq8qtDkfmqy197Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.PageForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.PageForm.html",
+          "hash": "Wptl4uXX2wk+gky8k+lqjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.WDPracownik.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.WDPracownik.html",
+          "hash": "RN9TeNNFIvRMR3al6aC4Uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.WDPracownik_Struktura.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.WDPracownik_Struktura.html",
+          "hash": "rsSMw6u1eXHpBce26rrAIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.WDPracownik_Zakladka.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.WDPracownik_Zakladka.html",
+          "hash": "AHUKGyahUcNFTuUrhxvz8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDPracownik.html",
+          "hash": "nASLTQzQW83N2/xpAnytDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDZalacznik.WDZalacznik.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDZalacznik.WDZalacznik.html",
+          "hash": "F/hd0yxJGHYelOSp5s31dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDZalacznik.WDZalacznik_Struktura.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDZalacznik.WDZalacznik_Struktura.html",
+          "hash": "QbOKq+2eHgLySGn4ymQ3SQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDZalacznik.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WDZalacznik.html",
+          "hash": "cK+vNbuGnzPlUAq7W1TFEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WymianaDokumentow_Tools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.WymianaDokumentow_Tools.html",
+          "hash": "qSiudT5VrjMwvLb8fSNx6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Soneta.Pulpity.WymianaDokumentow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Soneta.Pulpity.WymianaDokumentow.html",
+          "hash": "LEtPOVP3qgws5rs/qLiCQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "/RtA3a085XYENCTIW7om6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "rqrtzPdtZX6lOYSZCczb4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/WymianaDokumentow.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/WymianaDokumentow.html",
+          "hash": "C5SpPc11n1GuJWxlDXMfsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "dQUVgC6c+AnllvaZn7JHyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "UQepe5SPBt7n2/JaOw2+2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/1N.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/1N.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/2N.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/2N.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/4N.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/4N.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/5N.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/5N.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/7N.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/7N.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/8N.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/8N.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/9N.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/9N.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "vGdUnvPixCJEJsF9eyEjtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "CkNzimNfMDuadrrXu6KK5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 20,
+          "skipped_file_count": 20
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
